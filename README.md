@@ -1,4 +1,4 @@
-### [Hello World, I'm Horizuki 👋](https://guides.github.com/activities/hello-world/) 
+### [Hello World, I'm Horizuki](https://guides.github.com/activities/hello-world/) 👋
 
 
 
