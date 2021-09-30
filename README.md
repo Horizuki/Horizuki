@@ -20,6 +20,7 @@ i finally know how to create [a new repo](https://github.com/new)
 <a href="https://github.com/Horizuki">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Horizuki&theme=radical"/>
 </a>
+
 [![stats](https://github-readme-stats.vercel.app/api?username=Horizuki&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
