@@ -18,7 +18,7 @@ i finally know how to create [a new repo](https://github.com/new)
 
 ---
 
-[![stats](https://github-readme-stats.vercel.app/api?username=Horizuki&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Horizuki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=Horizuki&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Horizuki/Horizuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
