@@ -4,8 +4,7 @@ i just know how to create a [new](https://github.com/new) repository
 ### About me
 - Call me Hori instead of Horizuki
 - I play [osu!](https://osu.ppy.sh/home), and [Discord](https://discord.com).
-
-
+</br>
 - wait, lemme finish my English test first.
 <!--
 **Horizuki/Horizuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
