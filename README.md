@@ -1,5 +1,5 @@
 ### [Hello World](https://guides.github.com/activities/hello-world/), I'm Horizuki 👋
-i just know how to create a [new](https://github.com/new) repository
+i finally know how to create [a new repo](https://github.com/new)
 
 ---
 
