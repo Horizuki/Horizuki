@@ -1,4 +1,4 @@
-### Hi there 👋
+### [Hello World](https://guides.github.com/activities/hello-world/) 👋
 
 <!--
 **Horizuki/Horizuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
