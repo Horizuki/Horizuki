@@ -14,8 +14,11 @@ i just know how to create a [new](https://github.com/new) repository
 
 ### Discord Status
 <a href="https://discord.com/users/350144899489857536">
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/350144899489857536.png" />
+<img height="100px" src="https://discord.c99.nl/widget/theme-4/350144899489857536.png" />
 </a>
+
+---
+
 
 <!--
 **Horizuki/Horizuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
