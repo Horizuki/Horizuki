@@ -1,4 +1,4 @@
-# [Hello World](https://guides.github.com/activities/hello-world/), I'm Horizuki 👋
+### [Hello World](https://guides.github.com/activities/hello-world/), I'm Horizuki 👋
 i finally know how to create [a new repo](https://github.com/new)
 
 # About me
