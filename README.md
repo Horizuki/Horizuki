@@ -12,7 +12,7 @@ i finally know how to create [a new repo](https://github.com/new)
 <img height="95px" src="https://discord.c99.nl/widget/theme-4/350144899489857536.png" />
 </a>
 
----
+#
 <!-- <a href="https://github.com/Horizuki">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Horizuki&theme=radical"/>
 </a> -->
