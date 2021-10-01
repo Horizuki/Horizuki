@@ -13,9 +13,9 @@ i finally know how to create [a new repo](https://github.com/new)
 </a>
 
 #
-[![Horizuki](https://github-readme-stats.vercel.app/api?username=Horizuki&count_private=true&show_icons=true&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats)
+[![Horizuki](https://github-readme-stats.vercel.app/api/top-langs/?username=Horizuki&&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Horizuki](https://github-readme-stats.vercel.app/api/top-langs/?username=Horizuki&&theme=tokyonight&title_color=ff7700)](https://github.com/anuraghazra/github-readme-stats)
+[![Horizuki](https://github-readme-stats.vercel.app/api?username=Horizuki&count_private=true&show_icons=true&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Horizuki](https://github-readme-streak-stats.herokuapp.com?user=Horizuki&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
