@@ -22,7 +22,6 @@ i finally know how to create [a new repo](https://github.com/new)
 
 <details> 
   <summary>GitHub Stats</summary>
-  <br/>
   
 [![Horizuki](https://github-readme-stats.vercel.app/api/top-langs/?username=Horizuki&&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -36,6 +35,7 @@ i finally know how to create [a new repo](https://github.com/new)
 
 <details> 
   <summary>An image</summary>
+  
 ![nevermind](https://i.imgur.com/FHqsflN.jpeg)
 </details>
 
