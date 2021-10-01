@@ -27,3 +27,6 @@ i finally know how to create [a new repo](https://github.com/new)
 </details>
 
 [![Horizuki's github activity graph](https://activity-graph.herokuapp.com/graph?username=Horizuki&color=fce9ed&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+# An image
+
