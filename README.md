@@ -38,6 +38,6 @@ i finally know how to create [a new repo](https://github.com/new)
   <summary>An image</summary>
   <br/>
   
-![nevermind](https://i.imgur.com/FHqsflN.jpeg)
+[![Excalibur ~Revived resolution~](https://i.imgur.com/FHqsflN.jpeg)](https://osu.ppy.sh/b/2099172)
 </details>
 
