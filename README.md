@@ -15,14 +15,13 @@ i finally know how to create [a new repo](https://github.com/new)
 # Not about me
 <details> 
   <summary>GitHub Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Horizuki's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horizuki&&theme=tokyonight&title_color=fce9ed"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Horizuki's Top Languages" src="(https://github-readme-stats.vercel.app/api?username=Horizuki&count_private=true&show_icons=true&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats"/></a>
-  <br/>
-</details>
-
-<!-- [![Horizuki](https://github-readme-stats.vercel.app/api/top-langs/?username=Horizuki&&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats)
+  </br>
+[![Horizuki](https://github-readme-stats.vercel.app/api/top-langs/?username=Horizuki&&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Horizuki](https://github-readme-stats.vercel.app/api?username=Horizuki&count_private=true&show_icons=true&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
 [![Horizuki](https://github-readme-streak-stats.herokuapp.com?user=Horizuki&theme=tokyonight)](https://git.io/streak-stats)
+  </br>
+</details>
+
+
