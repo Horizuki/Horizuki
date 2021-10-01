@@ -1,16 +1,12 @@
-### [Hello World](https://guides.github.com/activities/hello-world/), I'm Horizuki 👋
+# [Hello World](https://guides.github.com/activities/hello-world/), I'm Horizuki 👋
 i finally know how to create [a new repo](https://github.com/new)
 
----
-
-### About me
+# About me
 - Call me Hori instead of Horizuki
 - I play [osu!](https://osu.ppy.sh/home), and [Discord](https://discord.com).
 </br>
 
 - wait, lemme finish my English test first.
-
----
 
 <a href="https://discord.com/users/350144899489857536">
 <img height="95px" src="https://discord.c99.nl/widget/theme-4/350144899489857536.png" />
