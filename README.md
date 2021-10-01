@@ -12,10 +12,18 @@ i finally know how to create [a new repo](https://github.com/new)
 <img height="95px" src="https://discord.c99.nl/widget/theme-4/350144899489857536.png" />
 </a>
 
-#
+# Not about me
+<details> 
+  <summary>GitHub Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Horizuki's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horizuki&&theme=tokyonight&title_color=fce9ed" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Horizuki's Top Languages" src="(https://github-readme-stats.vercel.app/api?username=Horizuki&count_private=true&show_icons=true&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
 
-[![Horizuki](https://github-readme-stats.vercel.app/api/top-langs/?username=Horizuki&&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Horizuki](https://github-readme-stats.vercel.app/api/top-langs/?username=Horizuki&&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Horizuki](https://github-readme-stats.vercel.app/api?username=Horizuki&count_private=true&show_icons=true&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 [![Horizuki](https://github-readme-streak-stats.herokuapp.com?user=Horizuki&theme=tokyonight)](https://git.io/streak-stats)
