@@ -18,14 +18,14 @@ i finally know how to create [a new repo](https://github.com/new)
   <summary>GitHub Stats</summary>
   <br/>
   
-[![Horizuki](https://github-readme-stats.vercel.app/api/top-langs/?username=Horizuki&&theme=tokyonight&title_color=fce9ed&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Horizuki](https://github-readme-stats.vercel.app/api/top-langs/?username=Horizuki&&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Horizuki](https://github-readme-stats.vercel.app/api?username=Horizuki&count_private=true&show_icons=true&theme=tokyonight&title_color=fce9ed&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Horizuki](https://github-readme-stats.vercel.app/api?username=Horizuki&count_private=true&show_icons=true&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Horizuki](https://github-readme-streak-stats.herokuapp.com?user=Horizuki&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Horizuki](https://github-readme-streak-stats.herokuapp.com?user=Horizuki&theme=tokyonight)](https://git.io/streak-stats)
   <br/>
 </details>
 
-[![Horizuki's github activity graph](https://activity-graph.herokuapp.com/graph?username=Horizuki&color=fce9ed&point=ffffff&hide_border=true&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Horizuki's github activity graph](https://activity-graph.herokuapp.com/graph?username=Horizuki&color=fce9ed&point=ffffff&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # An image
