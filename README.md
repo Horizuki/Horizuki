@@ -13,7 +13,7 @@ i finally know how to create [a new repo](https://github.com/new)
 ---
 
 <a href="https://discord.com/users/350144899489857536">
-< src="https://discord.c99.nl/widget/theme-4/350144899489857536.png" />
+<src="https://discord.c99.nl/widget/theme-4/350144899489857536.png" />
 </a>
 
 ---
