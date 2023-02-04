@@ -1,14 +1,14 @@
 ### [Hello World](https://guides.github.com/activities/hello-world/), I'm Horizuki 👋
-i finally know how to create [a new repo](https://github.com/new)
+now i'm back to create [a new repo](https://github.com/new)
 
 ---
 
 ### About me
-- Call me Hori instead of Horizuki
-- I play [osu!](https://osu.ppy.sh/home), and [Discord](https://discord.com).
+- Call me Hori instead of Horizuki (or Ika if you know me from other social network idk)
+- I play [osu!](https://osu.ppy.sh/home), [Discord](https://discord.com) and [HoloCure](https://kay-yu.itch.io/holocure)
 </br>
 
-- wait, lemme finish my English test first.
+i'm done with my English test now.
 
 ---
 
@@ -18,7 +18,6 @@ i finally know how to create [a new repo](https://github.com/new)
 
 ---
 
-### Not about me
 
 <details> 
   <summary>GitHub Stats</summary>
