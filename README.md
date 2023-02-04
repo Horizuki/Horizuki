@@ -32,7 +32,7 @@ i finally know how to create [a new repo](https://github.com/new)
   <br/>
 </details>
 
-[![Horizuki's github activity graph](https://activity-graph.herokuapp.com/graph?username=Horizuki&color=fce9ed&point=ffffff&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Horizuki's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Horizuki&color=fce9ed&point=ffffff&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <details> 
   <summary>An image</summary>
