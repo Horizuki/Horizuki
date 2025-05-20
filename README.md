@@ -25,7 +25,7 @@ i'm done with my English test now.
   
 [![Horizuki](https://github-readme-stats.vercel.app/api/top-langs/?username=Horizuki&&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Horizuki](https://github-readme-stats.vercel.app/api?username=Horizuki&count_private=true&show_icons=true&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats)
+[![Horizuki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Horizuki&count_private=true&show_icons=true&theme=merko&title_color=fce9ed&custom_title=This%20is%20me%2C%20an%20asian)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Horizuki](https://github-readme-streak-stats.herokuapp.com?user=Horizuki&theme=tokyonight)](https://git.io/streak-stats)
   <br/>
